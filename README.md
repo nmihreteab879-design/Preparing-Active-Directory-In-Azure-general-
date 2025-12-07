@@ -4,8 +4,6 @@
 
 # Preparing Active Directory in Azure
 
-This project walks through building the core infrastructure needed to run Active Directory inside Microsoft Azure. Instead of documenting every small action, this write-up focuses on the key configurations that make the environment functional—cloud networking, VM setup, DNS configuration, and connectivity testing. Each section highlights why the step matters and what real IT skill it demonstrates.
-
 ## Environments and Technologies Used
 - Microsoft Azure (Resource Groups, Virtual Networks, Virtual Machines)
 - Remote Desktop Protocol (RDP)
